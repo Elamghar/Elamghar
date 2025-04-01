@@ -61,15 +61,15 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elhoucine&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elamghar&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elhoucine&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elamghar&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhoucine&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elamghar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
