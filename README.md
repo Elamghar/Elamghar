@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm EL Houcine AMGHAR <br><br>- 🔭 I’m a Computer Science Student<br>- 📚 I'm currently learning IA</p>
 
 ###
 
@@ -58,6 +58,19 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elhoucine&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elhoucine&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhoucine&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ###
