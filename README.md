@@ -72,7 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elamghar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=Elamghar&color=brightgreen) <!-- Profile views counter -->
 
 
 ###
