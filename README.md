@@ -1,211 +1,250 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Welcome" />
 </div>
 
-###
+<h1 align="center">🚀 EL Houcine AMGHAR</h1>
+<h3 align="center">AI & Data Engineer | Computer Science Student @ ENSA Marrakech</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/el-houcine-amghar-87811a242" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Elamghar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub logo" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:elhoucineamghar9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+212610111243" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-%2B212%20610%20111243-green?style=for-the-badge&logo=whatsapp" alt="Phone" />
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 👨‍💻 About Me
 
-###
+I'm a passionate **AI & Data Engineer** specializing in Machine Learning, NLP, and Data Pipelines. With hands-on experience in industrial AI applications at **Stellantis**, I'm driven by building scalable ML systems and solving real-world problems using data science.
 
-<h3 align="left">👨‍💻 About Me</h3>
+- 🤖 Expertise in **Machine Learning**, **NLP**, and **Data Engineering**
+- 🏭 Industrial experience optimizing manufacturing processes with AI
+- 🏆 **GITEX Africa 2025 Finalist** (IA4SDG11 Competition)
+- 📚 Currently exploring advanced LLM architectures and distributed systems
+- 🎯 Looking for internship opportunities to advance ML Engineering skills
 
-<p align="left">
-I'm <strong>EL Houcine AMGHAR</strong>, a 5th-year Computer Science student at ENSA Marrakech specializing in <strong>AI & Data Engineering</strong>
-  
-- 🤖 Passionate about <strong>Machine Learning</strong>, <strong>NLP</strong>, and <strong>Data Pipelines</strong>
-- 🏭 Industrial AI experience at <strong>Stellantis</strong> (Process Optimization with YOLOv8, RAG, XGBoost)
-- 🏆 Finalist at <strong>GITEX Africa 2025</strong> (IA4SDG11 Competition)
-- 📚 Currently learning advanced LLM fine-tuning & distributed systems
-- 🎯 Seeking internship to deepen expertise in ML Engineering & Data Architecture
-</p>
+---
 
-###
+## 🎯 Core Competencies
 
-<h3 align="left">🎯 AI & Data Engineer Specialization</h3>
+<table>
+<tr>
+<td>
 
-<p align="left">
-  
-**Machine Learning & Vision:**
-- Object Detection & Classification (YOLOv8, CNN, RNN)
-- Ensemble Methods (XGBoost, scikit-learn)
-- Computer Vision (OpenCV, PyTorch)
+### 🤖 Machine Learning
+- YOLOv8 (Object Detection)
+- CNN, RNN, Transformers
+- XGBoost, scikit-learn
+- PyTorch, TensorFlow
+- BERT, LLM Fine-tuning
 
-**NLP & LLMs:**
-- Named Entity Recognition (NER, spaCy)
-- Retrieval Augmented Generation (RAG)
-- LLM Fine-tuning & Quantization
-- Darija Language Models
+</td>
+<td>
 
-**Data Engineering:**
-- ETL Pipeline Design & Implementation
+### 📊 Data Engineering
+- ETL Pipeline Design
 - Data Collection & Preprocessing
 - Feature Engineering
-- Data Warehousing & Vector Databases
+- Data Warehousing
+- Vector Databases
 
-**Backend & APIs:**
-- FastAPI & Microservices Architecture
-- Flask, Spring Boot, Django
-- RESTful API Design
+</td>
+</tr>
+<tr>
+<td>
 
-**Cloud & DevOps:**
+### 🗣️ NLP & LLMs
+- Named Entity Recognition (NER)
+- Retrieval Augmented Generation (RAG)
+- LLM Quantization & Fine-tuning
+- Document Processing
+- Darija Language Models
+
+</td>
+<td>
+
+### 💻 Backend & Cloud
+- FastAPI, Flask, Spring Boot
+- Microservices Architecture
 - Docker, AWS (S3, EC2)
+- PostgreSQL, MongoDB
 - CI/CD Pipelines
-- Git/GitHub Workflows
 
-</p>
+</td>
+</tr>
+</table>
 
-###
+---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+## 🛠️ Tech Stack
 
-**Programming Languages:**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" title="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="C" />
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+### AI & ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EEE?style=flat&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 </div>
 
-**AI & Machine Learning:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" title="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" title="Kaggle" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="40" alt="scikit-learn" title="scikit-learn" />
-  <img width="12" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-nobg.svg" height="40" alt="huggingface" title="Hugging Face" />
-</div>
+---
 
-**Backend & Frameworks:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" title="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" title="Flask" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" title="Spring Boot" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" title="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" title="Angular" />
-</div>
+## 💼 Professional Experience
 
-**Databases & Data Tools:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
-</div>
+### 🏭 PFA Internship – AI Process Optimization @ Stellantis
+**July 2025 – September 2025**
+- Collected and processed industrial data for ML model training
+- Developed YOLOv8-based object detection and classification system for industrial parts
+- Built NLP-powered ChatBot for technical document processing using RAG
+- **Tech Stack:** YOLOv8, PyTorch, OpenCV, Flask, XGBoost, RAG
 
-**Cloud & DevOps:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" title="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
-</div>
+### 🌱 Internship – SDG Platform @ Cadi Ayyad University
+**July 2025 – September 2025**
+- Developed web application for tracking Sustainable Development Goals initiatives
+- Designed and implemented complete ETL data pipeline for ODD metrics
+- **Tech Stack:** Django, PostgreSQL
 
-###
+### 💻 IT Support & Full-Stack Development @ ORMVAH
+**July 2024 – August 2024**
+- Developed real-time chat web application for internal communication
 
-<h3 align="left">💼 Professional Experience</h3>
+---
 
-**🏭 PFA Internship – AI Process Optimization @ Stellantis** `Jul 2025 – Sep 2025`
-- Collected & processed industrial data for ML model training
-- Developed object detection & classification models (YOLOv8)
-- Built NLP-based ChatBot for technical document processing (RAG)
-- **Tech:** YOLOv8, PyTorch, OpenCV, Flask, XGBoost, RAG
+## 🚀 Featured Projects
 
-**🌱 Internship – SDG Platform Development @ Cadi Ayyad University** `Jul 2025 – Sep 2025`
-- Developed web application for Sustainable Development Goals tracking & monitoring
-- Designed & implemented ETL data pipeline
-- **Tech:** Django, PostgreSQL
+### 1️⃣ **SmartRoute** – Route Optimization Platform
+*Mar 2025 – Jun 2025*
 
-**💻 IT Support & Full-Stack Development @ ORMVAH** `Jul 2024 – Aug 2024`
-- Developed real-time chat web application
+Intelligent route optimization system leveraging ML and geospatial data.
+- Collected and processed geospatial datasets for synthetic data generation
+- Built ML pipeline with XGBoost for route prediction
+- Full-stack application with Spring Boot backend and Angular frontend
 
-###
+**GitHub:** [View Repository](https://github.com/Elamghar/smartroute)  
+**Tech:** Spring Boot, Angular, XGBoost, Flask, Python, PostgreSQL
 
-<h3 align="left">🚀 Featured Projects</h3>
+---
 
-**SmartRoute – Route Optimization Platform** `Mar 2025 – Jun 2025`
-- Geospatial data collection & ML pipeline for intelligent route optimization
-- **Tech:** Spring Boot, Angular, XGBoost, Flask, Python
+### 2️⃣ **Billwise** – AI-Powered Finance Assistant
+*Sep 2025 – Dec 2025*
 
-**Billwise – AI-Powered Finance Assistant** `Sep 2025 – Dec 2025`
-- Microservices architecture with NER model for SMS bill parsing & financial insights
-- **Tech:** FastAPI, spaCy, PostgreSQL, MongoDB, Python
+Mobile finance assistant that parses SMS bills and extracts financial insights.
+- Designed microservices architecture with FastAPI for scalability
+- Trained Named Entity Recognition (NER) model using spaCy for bill data extraction
+- Integrated dual database system (PostgreSQL + MongoDB)
 
-**HackIA 1337 – Darija Language Chatbot** `May 2025`
-- Conversational AI system in Moroccan dialect using LLM fine-tuning & quantization
-- **Tech:** LLM, Fine-tuning, Quantization, Python
+**GitHub:** [View Repository](https://github.com/Elamghar/billwise)  
+**Tech:** FastAPI, spaCy, Python, PostgreSQL, MongoDB, Git
 
-**🏆 IA4SDG11 Competition – GITEX Africa 2025 (Finalist)** `Apr 2025`
-- Event detection system using BERT & NER for Twitter data analysis
-- **Tech:** BERT, Twitter API, Python, NLP
+---
 
-###
+### 3️⃣ **HackIA 1337** – Darija Language Chatbot
+*May 2025*
 
-<h3 align="left">🔥 My Stats:</h3>
+Conversational AI system trained on Moroccan dialect (Darija).
+- Fine-tuned LLM with quantization techniques for optimization
+- Implemented custom tokenization for dialect-specific NLP tasks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elamghar&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-</p>
+**GitHub:** [View Repository](https://github.com/Elamghar/hackia-1337)  
+**Tech:** LLM, Fine-tuning, Quantization, Python
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elamghar&theme=radical" alt="GitHub Streak" width="400" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elamghar&layout=compact&theme=radical" alt="Top Languages" width="400" />
-</p>
+### 4️⃣ **GITEX Africa 2025 – IA4SDG11** 🏆 Finalist
+*Apr 2025*
 
-###
+Event detection system analyzing Twitter data for sustainable development insights.
+- Built BERT-based classification model for event detection
+- Implemented NER pipeline for entity extraction from tweets
+- Competition Finalist at GITEX Africa 2025
 
-<h3 align="left">📚 Education</h3>
+**Tech:** BERT, Twitter API, Python, NLP, Named Entity Recognition
 
-- **Degree:** Engineering in Computer Science (5th Year)
-- **Institution:** ENSA Marrakech (2021 – 2026)
-- **Specialization:** AI & Data Engineering
+---
 
-###
-
-<h3 align="left">🌍 Languages</h3>
-
-- 🇸🇦 **Arabic** (Native)
-- 🇫🇷 **French** (Fluent)
-- 🇬🇧 **English** (Fluent)
-
-###
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <b>💬 Open to collaboration, internship opportunities & freelance projects!</b>
-  <br><br>
-  📧 <a href="mailto:elhoucineamghar9@gmail.com">elhoucineamghar9@gmail.com</a> | 📱 +212 610 111243
+  <img src="https://github-readme-stats.vercel.app/api?username=Elamghar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elamghar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elamghar&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| **Engineering Diploma in Computer Science** | ENSA Marrakech | 2021 – 2026 |
+| **GITEX Africa 2025 Finalist** | GITEX Africa | Apr 2025 |
+| **HackIA 1337 Participant** | UM6P | May 2025 |
+| **Excellence Beneficiary** | Jadara Foundation | 2021 – Present |
+
+---
+
+## 🌍 Languages
+
+- 🇸🇦 **Arabic** – Native
+- 🇫🇷 **French** – Fluent
+- 🇬🇧 **English** – Fluent
+
+---
+
+## 📈 Let's Connect!
+
+<div align="center">
+  
+**I'm actively looking for internship opportunities and collaborative projects!**
+
+Feel free to reach out:
+- 📧 **Email:** [elhoucineamghar9@gmail.com](mailto:elhoucineamghar9@gmail.com)
+- 💼 **LinkedIn:** [el-houcine-amghar](https://www.linkedin.com/in/el-houcine-amghar-87811a242)
+- 🐙 **GitHub:** [Elamghar](https://github.com/Elamghar)
+- 📱 **Phone:** +212 610 111243
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Elamghar&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
 </div>
